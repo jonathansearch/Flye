@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> ## Outil du lab — travaux d assemblage
+> Cet outil open source est disponible sur le lab pour les travaux d assemblage de génomes. Consultez sa documentation et sa licence avant utilisation.
+
+
 Flye assembler
 ==============
 
